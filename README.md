@@ -72,10 +72,10 @@ Backend-focused developer · IOST, Tribhuvan University · Bagmati, Nepal
 
 ---
 
-### 🐍 Contribution graph
+### 📈 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadavsumit2006/yadavsumit2006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsumit2006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&height=300" alt="Contribution activity graph" />
 </p>
 
 ---
