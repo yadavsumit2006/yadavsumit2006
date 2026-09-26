@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sumit Yadav
 
-<!--
-**yadavsumit2006/yadavsumit2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend developer** · Python, Java, PHP · APIs, databases & integrations · Bagmati, Nepal
 
-Here are some ideas to get you started:
+I build server-side features end to end: REST-style APIs, business logic, and data layers. I use AI tools to move faster on tests and docs, and I review every change like any other PR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Python · Java · PHP · SQL · Git · Linux
+
+### Currently
+- IOST, Tribhuvan University
+- Open to **internships** and **junior backend** roles (remote-friendly)
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/sumit-yadav-58b6a7438/)
+- Project repos with README setup steps coming soon.
+
+---
+*AI-enabled engineering: faster iteration, human review on every merge.*
